@@ -1,0 +1,62 @@
+2014-01-23 15:51:15.284 HelloCordova[73027:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 15:51:15.312 HelloCordova[73027:80b] Unlimited access to network resources
+2014-01-23 15:51:15.436 HelloCordova[73027:80b] Resetting plugins due to page load.
+2014-01-23 15:51:15.564 HelloCordova[73027:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/2BDA0A17-6BF8-45D4-8AA1-7249902EA6D3/HelloCordova.app/www/index.html
+2014-01-23 15:51:15.597 HelloCordova[73027:80b] Received Event: deviceready
+2014-01-23 15:57:25.779 Workshop[73682:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 15:57:25.788 Workshop[73682:80b] Unlimited access to network resources
+2014-01-23 15:57:25.901 Workshop[73682:80b] Resetting plugins due to page load.
+2014-01-23 15:57:25.981 Workshop[73682:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8650EACC-6073-4188-B424-60B99F9AC199/Workshop.app/www/index.html
+2014-01-23 16:04:30.588 Workshop[74441:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:04:30.592 Workshop[74441:80b] Unlimited access to network resources
+2014-01-23 16:04:30.687 Workshop[74441:80b] Resetting plugins due to page load.
+2014-01-23 16:04:30.743 Workshop[74441:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/8650EACC-6073-4188-B424-60B99F9AC199/Workshop.app/www/index.html
+2014-01-23 16:06:42.447 Nearby.me[74814:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:06:42.454 Nearby.me[74814:80b] Unlimited access to network resources
+2014-01-23 16:06:42.456 Nearby.me[74814:80b] Fix applied for database locations?: YES
+2014-01-23 16:06:42.568 Nearby.me[74814:80b] Resetting plugins due to page load.
+2014-01-23 16:06:42.618 Nearby.me[74814:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:13:17.068 Nearby.me[75280:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:13:17.074 Nearby.me[75280:80b] Unlimited access to network resources
+2014-01-23 16:13:17.196 Nearby.me[75280:80b] Resetting plugins due to page load.
+2014-01-23 16:14:07.493 Nearby.me[75280:3f03] void SendDelegateMessage(NSInvocation *): delegate (webView:runJavaScriptAlertPanelWithMessage:initiatedByFrame:) failed to return after waiting 10 seconds. main run loop mode: kCFRunLoopDefaultMode
+2014-01-23 16:14:07.502 Nearby.me[75280:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:20:08.380 Nearby.me[75654:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:20:08.385 Nearby.me[75654:80b] Unlimited access to network resources
+2014-01-23 16:20:08.496 Nearby.me[75654:80b] Resetting plugins due to page load.
+2014-01-23 16:20:08.538 Nearby.me[75654:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:22:22.116 Nearby.me[76026:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:22:22.122 Nearby.me[76026:80b] Unlimited access to network resources
+2014-01-23 16:22:22.212 Nearby.me[76026:80b] Resetting plugins due to page load.
+2014-01-23 16:22:22.267 Nearby.me[76026:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:22:22.327 Nearby.me[76026:80b] THREAD WARNING: ['Notification'] took '39.760986' ms. Plugin should use a background thread.
+2014-01-23 16:23:38.729 Nearby.me[76394:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:23:38.736 Nearby.me[76394:80b] Unlimited access to network resources
+2014-01-23 16:23:38.854 Nearby.me[76394:80b] Resetting plugins due to page load.
+2014-01-23 16:23:38.904 Nearby.me[76394:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:23:38.958 Nearby.me[76394:80b] THREAD WARNING: ['Notification'] took '36.930176' ms. Plugin should use a background thread.
+2014-01-23 16:28:46.171 Nearby.me[76394:80b] Resetting plugins due to page load.
+2014-01-23 16:28:46.217 Nearby.me[76394:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:28:46.249 Nearby.me[76394:80b] THREAD WARNING: ['Notification'] took '17.736084' ms. Plugin should use a background thread.
+2014-01-23 16:32:19.252 Nearby.me[76916:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:32:19.257 Nearby.me[76916:80b] Unlimited access to network resources
+2014-01-23 16:32:19.354 Nearby.me[76916:80b] Resetting plugins due to page load.
+2014-01-23 16:32:19.407 Nearby.me[76916:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:55:33.782 Nearby.me[77384:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:55:33.790 Nearby.me[77384:80b] Unlimited access to network resources
+2014-01-23 16:55:33.876 Nearby.me[77384:80b] Resetting plugins due to page load.
+2014-01-23 16:55:33.924 Nearby.me[77384:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:55:53.545 Nearby.me[77384:80b] Resetting plugins due to page load.
+2014-01-23 16:55:53.586 Nearby.me[77384:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:56:37.139 Nearby.me[77740:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:56:37.147 Nearby.me[77740:80b] Unlimited access to network resources
+2014-01-23 16:56:37.264 Nearby.me[77740:80b] Resetting plugins due to page load.
+2014-01-23 16:56:37.337 Nearby.me[77740:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:56:49.620 Nearby.me[77740:80b] Resetting plugins due to page load.
+2014-01-23 16:56:49.661 Nearby.me[77740:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:59:11.152 Nearby.me[78119:80b] Multi-tasking -> Device: YES, App: YES
+2014-01-23 16:59:11.157 Nearby.me[78119:80b] Unlimited access to network resources
+2014-01-23 16:59:11.257 Nearby.me[78119:80b] Resetting plugins due to page load.
+2014-01-23 16:59:11.310 Nearby.me[78119:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
+2014-01-23 16:59:52.170 Nearby.me[78119:80b] Resetting plugins due to page load.
+2014-01-23 16:59:52.219 Nearby.me[78119:80b] Finished load of: file:///Users/amcguire/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/235074D3-1FA8-4D44-BC59-32F4E9266F1A/Nearby.me.app/www/index.html
